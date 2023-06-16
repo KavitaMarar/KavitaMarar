@@ -1,7 +1,8 @@
-### Hi there 👋
+                        ### Hi there 👋
 
-<!--
-**KavitaMarar/KavitaMarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Kavita</h1>
+<h3 align="center">I'm a  MCA srtudent from India.</h3>
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She . Her
 - ⚡ Fun fact: ...
--->
+
