@@ -3,10 +3,9 @@ Hi there 👋
 💡 About Me
 
 🎓 MCA graduate at Pune University
-💻 Passionate about Full-Stack Development (MERN & MEAN)
-🔭 Currently working on a Node.js + Angular + MySQL project
+💻 Passionate about Full-Stack Development (MERN)
 🌱 Learning Python, Django, and Data Analysis
 👯 Looking to collaborate on open-source projects & backend development
-💬 Ask me about NestJS, GraphQL, TypeScript, and REST APIs
+💬 Ask me about NestJS, TypeScript, and REST APIs
 📫 Reach me at mararkavita@gmail.com or https://www.linkedin.com/in/kavita-marar
 ⚡ Fun fact: I love exploring new tech and debugging makes me happy 😄
